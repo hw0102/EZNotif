@@ -1,4 +1,4 @@
-# EZNotif
+# 🧘🏻EZNotif
 
 <p>
     <img src="https://img.shields.io/badge/iOS_17+-blue" />
