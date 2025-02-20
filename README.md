@@ -1,13 +1,15 @@
 # EZNotif
 
 <p>
-    <img src="https://https://img.shields.io/badge/iOS-17+-blue" />
-    <a href="https://developer.apple.com/documentation/swiftui/"> <img src="https://img.shields.io/badge/-SwiftUI-red.svg" /> </a>
-    <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-lightgray.svg" /> </a></a>
+    <img src="https://img.shields.io/badge/iOS_17+-blue" />
+    <a href="https://developer.apple.com/documentation/swiftui/"> <img src="https://img.shields.io/badge/SwiftUI-blue" /> </a>
+    <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-lightgray" /> </a></a>
 </p>
 
-EZNotif is for learning and setting up simple local notifications for apps built in Swift UI. This helps you quickly test out local notifications.
 <img src="Misc/logo.png" width="275" />
+
+EZNotif is for learning and setting up simple local notifications for apps built in Swift UI. This helps you quickly test out local notifications.
+
 
 ## Installation
 EZNotif is available through [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app).
