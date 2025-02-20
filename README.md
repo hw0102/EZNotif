@@ -1,6 +1,7 @@
 # 🧘🏻EZNotif
 
 <p>
+    <img src="https://img.shields.io/badge/WIP-yellow" />
     <img src="https://img.shields.io/badge/iOS_17+-blue" />
     <a href="https://developer.apple.com/documentation/swiftui/"> <img src="https://img.shields.io/badge/Swift_UI-blue" /> </a>
     <a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-lightgray" /> </a>
