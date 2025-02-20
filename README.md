@@ -20,7 +20,7 @@ EZNotif is available through [Swift Package Manager](https://swift.org/package-m
 todo
 
 ## Compatibility
-todo
+Minimum supported iOS version is iOS 17.0 due to [Observation framework](https://developer.apple.com/documentation/Observation).
 
 ## Contributions
 All contributions are welcome! If you would like contribute to the codebase, please fork this repository, make changes, and create a Pull Request.
