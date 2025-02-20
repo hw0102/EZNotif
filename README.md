@@ -20,4 +20,4 @@ All contributions are welcome! If you would like contribute to the codebase, ple
 If you find any bugs in the code, feel free to open up an issue under the "Issues" tab.
 
 ## License
-EZNotif is distributed under the [MIT license](https://github.com/hw0102/EZNotif/LICENSE).
+EZNotif is distributed under the [MIT license](https://github.com/hw0102/EZNotif/blob/main/LICENSE).
