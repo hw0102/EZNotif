@@ -10,6 +10,15 @@ EZNotif is available through [Swift Package Manager](https://swift.org/package-m
 .package(url: "https://github.com/hw0102/EZNotif", from: "<see GitHub releases>")
 ```
 
+1. Open Xcode.
+2. File -> Add Package Dependencies...
+3. In the top right corner, search for [https://github.com/hw0102/EZNotif](https://github.com/hw0102/EZNotif)
+4. Select the appropriate dependency option (e.g., branch)
+5. Click on "Add Dependency" in the lower right corner.
+
+## How to Use
+todo
+
 ## Compatibility
 todo
 
